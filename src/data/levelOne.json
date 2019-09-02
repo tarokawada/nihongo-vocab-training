@@ -1,0 +1,502 @@
+[
+  {
+    "vocab": "行く",
+    "hiragana": "いく",
+    "meaning": ["go"]
+  },
+  {
+    "vocab": "見る",
+    "hiragana": "みる",
+    "meaning": ["see", " look at"]
+  },
+  {
+    "vocab": "多い",
+    "hiragana": "おおい",
+    "meaning": ["a lot of", " many"]
+  },
+  {
+    "vocab": "家",
+    "hiragana": "うち",
+    "meaning": ["home", " household"]
+  },
+  {
+    "vocab": "これ",
+    "hiragana": "これ",
+    "meaning": ["this", " this one"]
+  },
+  {
+    "vocab": "それ",
+    "hiragana": "それ",
+    "meaning": ["that", " that one"]
+  },
+  {
+    "vocab": "私",
+    "hiragana": "わたし",
+    "meaning": ["I (general)"]
+  },
+  {
+    "vocab": "仕事",
+    "hiragana": "しごと",
+    "meaning": ["work", " job"]
+  },
+  {
+    "vocab": "いつ",
+    "hiragana": "いつ",
+    "meaning": ["when"]
+  },
+  {
+    "vocab": "する",
+    "hiragana": "する",
+    "meaning": ["do", " make"]
+  },
+  {
+    "vocab": "出る",
+    "hiragana": "でる",
+    "meaning": ["go out", " leave"]
+  },
+  {
+    "vocab": "使う",
+    "hiragana": "つかう",
+    "meaning": ["use", " make use of"]
+  },
+  {
+    "vocab": "所",
+    "hiragana": "ところ",
+    "meaning": ["place"]
+  },
+  {
+    "vocab": "作る",
+    "hiragana": "つくる",
+    "meaning": ["make", " create"]
+  },
+  {
+    "vocab": "思う",
+    "hiragana": "おもう",
+    "meaning": ["think"]
+  },
+  {
+    "vocab": "持つ",
+    "hiragana": "もつ",
+    "meaning": ["have", " possess"]
+  },
+  {
+    "vocab": "買う",
+    "hiragana": "かう",
+    "meaning": ["buy"]
+  },
+  {
+    "vocab": "時間",
+    "hiragana": "じかん",
+    "meaning": ["time", " hour"]
+  },
+  {
+    "vocab": "知る",
+    "hiragana": "しる",
+    "meaning": ["know"]
+  },
+  {
+    "vocab": "同じ",
+    "hiragana": "おなじ",
+    "meaning": ["same", " identical"]
+  },
+  {
+    "vocab": "今",
+    "hiragana": "いま",
+    "meaning": ["now"]
+  },
+  {
+    "vocab": "新しい",
+    "hiragana": "あたらしい",
+    "meaning": ["new"]
+  },
+  {
+    "vocab": "なる",
+    "hiragana": "なる",
+    "meaning": ["become"]
+  },
+  {
+    "vocab": "まだ",
+    "hiragana": "まだ",
+    "meaning": ["(not) yet", " still"]
+  },
+  {
+    "vocab": "あと",
+    "hiragana": "あと",
+    "meaning": ["after"]
+  },
+  {
+    "vocab": "聞く",
+    "hiragana": "きく",
+    "meaning": ["hear", " ask", " listen"]
+  },
+  {
+    "vocab": "言う",
+    "hiragana": "いう",
+    "meaning": ["say", " tell"]
+  },
+  {
+    "vocab": "少ない",
+    "hiragana": "すくない",
+    "meaning": ["few", " little"]
+  },
+  {
+    "vocab": "高い",
+    "hiragana": "たかい",
+    "meaning": ["high", " tall"]
+  },
+  {
+    "vocab": "子供",
+    "hiragana": "こども",
+    "meaning": ["child"]
+  },
+  {
+    "vocab": "そう",
+    "hiragana": "そう",
+    "meaning": ["so", " that way"]
+  },
+  {
+    "vocab": "もう",
+    "hiragana": "もう",
+    "meaning": ["already", " yet"]
+  },
+  {
+    "vocab": "学生",
+    "hiragana": "がくせい",
+    "meaning": ["student"]
+  },
+  {
+    "vocab": "熱い",
+    "hiragana": "あつい",
+    "meaning": ["hot (to touch)"]
+  },
+  {
+    "vocab": "どうぞ",
+    "hiragana": "どうぞ",
+    "meaning": ["please"]
+  },
+  {
+    "vocab": "午後",
+    "hiragana": "ごご",
+    "meaning": ["afternoon", " p.m."]
+  },
+  {
+    "vocab": "長い",
+    "hiragana": "ながい",
+    "meaning": ["long"]
+  },
+  {
+    "vocab": "本",
+    "hiragana": "ほん",
+    "meaning": ["book"]
+  },
+  {
+    "vocab": "今年",
+    "hiragana": "ことし",
+    "meaning": ["this year (colloquial)"]
+  },
+  {
+    "vocab": "よく",
+    "hiragana": "よく",
+    "meaning": ["often", " well"]
+  },
+  {
+    "vocab": "彼女",
+    "hiragana": "かのじょ",
+    "meaning": ["she", " girlfriend"]
+  },
+  {
+    "vocab": "どう",
+    "hiragana": "どう",
+    "meaning": ["how", " what"]
+  },
+  {
+    "vocab": "言葉",
+    "hiragana": "ことば",
+    "meaning": ["word", " language"]
+  },
+  {
+    "vocab": "顔",
+    "hiragana": "かお",
+    "meaning": ["face"]
+  },
+  {
+    "vocab": "終わる",
+    "hiragana": "おわる",
+    "meaning": ["finish", " end"]
+  },
+  {
+    "vocab": "一つ",
+    "hiragana": "ひとつ",
+    "meaning": ["one (thing)"]
+  },
+  {
+    "vocab": "あげる",
+    "hiragana": "あげる",
+    "meaning": ["give", " offer (colloquial)"]
+  },
+  {
+    "vocab": "こう",
+    "hiragana": "こう",
+    "meaning": ["like this", " such"]
+  },
+  {
+    "vocab": "学校",
+    "hiragana": "がっこう",
+    "meaning": ["school"]
+  },
+  {
+    "vocab": "くれる",
+    "hiragana": "くれる",
+    "meaning": ["be given"]
+  },
+  {
+    "vocab": "始める",
+    "hiragana": "はじめる",
+    "meaning": ["start (something)"]
+  },
+  {
+    "vocab": "起きる",
+    "hiragana": "おきる",
+    "meaning": ["get up", " get out of bed"]
+  },
+  {
+    "vocab": "春",
+    "hiragana": "はる",
+    "meaning": ["spring"]
+  },
+  {
+    "vocab": "午前",
+    "hiragana": "ごぜん",
+    "meaning": ["morning", " a.m."]
+  },
+  {
+    "vocab": "別",
+    "hiragana": "べつ",
+    "meaning": ["another", " different"]
+  },
+  {
+    "vocab": "どこ",
+    "hiragana": "どこ",
+    "meaning": ["where"]
+  },
+  {
+    "vocab": "部屋",
+    "hiragana": "へや",
+    "meaning": ["room"]
+  },
+  {
+    "vocab": "若い",
+    "hiragana": "わかい",
+    "meaning": ["young"]
+  },
+  {
+    "vocab": "車",
+    "hiragana": "くるま",
+    "meaning": ["car", " automobile"]
+  },
+  {
+    "vocab": "置く",
+    "hiragana": "おく",
+    "meaning": ["put", " place"]
+  },
+  {
+    "vocab": "住む",
+    "hiragana": "すむ",
+    "meaning": ["live", " reside"]
+  },
+  {
+    "vocab": "働く",
+    "hiragana": "はたらく",
+    "meaning": ["work"]
+  },
+  {
+    "vocab": "難しい",
+    "hiragana": "むずかしい",
+    "meaning": ["difficult"]
+  },
+  {
+    "vocab": "先生",
+    "hiragana": "せんせい",
+    "meaning": ["teacher (colloquial)"]
+  },
+  {
+    "vocab": "立つ",
+    "hiragana": "たつ",
+    "meaning": ["stand", " rise"]
+  },
+  {
+    "vocab": "呼ぶ",
+    "hiragana": "よぶ",
+    "meaning": ["call", " name"]
+  },
+  {
+    "vocab": "大学",
+    "hiragana": "だいがく",
+    "meaning": ["university", " college"]
+  },
+  {
+    "vocab": "安い",
+    "hiragana": "やすい",
+    "meaning": ["cheap", " inexpensive"]
+  },
+  {
+    "vocab": "もっと",
+    "hiragana": "もっと",
+    "meaning": ["more"]
+  },
+  {
+    "vocab": "帰る",
+    "hiragana": "かえる",
+    "meaning": ["go back home"]
+  },
+  {
+    "vocab": "分かる",
+    "hiragana": "わかる",
+    "meaning": ["understand"]
+  },
+  {
+    "vocab": "広い",
+    "hiragana": "ひろい",
+    "meaning": ["wide", " big"]
+  },
+  {
+    "vocab": "数",
+    "hiragana": "かず",
+    "meaning": ["number"]
+  },
+  {
+    "vocab": "近い",
+    "hiragana": "ちかい",
+    "meaning": ["near", " close"]
+  },
+  {
+    "vocab": "そこ",
+    "hiragana": "そこ",
+    "meaning": ["there"]
+  },
+  {
+    "vocab": "走る",
+    "hiragana": "はしる",
+    "meaning": ["run"]
+  },
+  {
+    "vocab": "入れる",
+    "hiragana": "いれる",
+    "meaning": ["put in"]
+  },
+  {
+    "vocab": "教える",
+    "hiragana": "おしえる",
+    "meaning": ["teach", " tell"]
+  },
+  {
+    "vocab": "歩く",
+    "hiragana": "あるく",
+    "meaning": ["walk", " go on foot"]
+  },
+  {
+    "vocab": "会う",
+    "hiragana": "あう",
+    "meaning": ["meet"]
+  },
+  {
+    "vocab": "書く",
+    "hiragana": "かく",
+    "meaning": ["write"]
+  },
+  {
+    "vocab": "頭",
+    "hiragana": "あたま",
+    "meaning": ["head"]
+  },
+  {
+    "vocab": "売る",
+    "hiragana": "うる",
+    "meaning": ["sell"]
+  },
+  {
+    "vocab": "大好き",
+    "hiragana": "だいすき",
+    "meaning": ["like (something) a lot"]
+  },
+  {
+    "vocab": "体",
+    "hiragana": "からだ",
+    "meaning": ["body", " physique", " physical condition"]
+  },
+  {
+    "vocab": "直ぐ",
+    "hiragana": "すぐ",
+    "meaning": ["at once", " soon"]
+  },
+  {
+    "vocab": "飛ぶ",
+    "hiragana": "とぶ",
+    "meaning": ["fly"]
+  },
+  {
+    "vocab": "とても",
+    "hiragana": "とても",
+    "meaning": ["very (colloquial)"]
+  },
+  {
+    "vocab": "誰",
+    "hiragana": "だれ",
+    "meaning": ["who"]
+  },
+  {
+    "vocab": "好き",
+    "hiragana": "すき",
+    "meaning": ["favorite", " liked"]
+  },
+  {
+    "vocab": "読む",
+    "hiragana": "よむ",
+    "meaning": ["read"]
+  },
+  {
+    "vocab": "次",
+    "hiragana": "つぎ",
+    "meaning": ["next"]
+  },
+  {
+    "vocab": "あなた",
+    "hiragana": "あなた",
+    "meaning": ["you"]
+  },
+  {
+    "vocab": "飲む",
+    "hiragana": "のむ",
+    "meaning": ["drink"]
+  },
+  {
+    "vocab": "古い",
+    "hiragana": "ふるい",
+    "meaning": ["old"]
+  },
+  {
+    "vocab": "質問",
+    "hiragana": "しつもん",
+    "meaning": ["question"]
+  },
+  {
+    "vocab": "今日",
+    "hiragana": "きょう",
+    "meaning": ["today (colloquial)"]
+  },
+  {
+    "vocab": "友達",
+    "hiragana": "ともだち",
+    "meaning": ["friend", " companion (colloquial)"]
+  },
+  {
+    "vocab": "早い",
+    "hiragana": "はやい",
+    "meaning": ["early"]
+  },
+  {
+    "vocab": "どれ",
+    "hiragana": "どれ",
+    "meaning": ["what", " which"]
+  }
+]

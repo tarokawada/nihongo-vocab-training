@@ -1,3 +1,6 @@
 import React from "react"
+import Test from "./Test"
 
-export default () => <div>Hello world!</div>
+export default () => {
+  return <Test />
+}
